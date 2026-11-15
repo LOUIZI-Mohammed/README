@@ -5,4 +5,5 @@
 - Python
 - SQL
 - Machine learning
+- Power BI
 - [Autre langage]
